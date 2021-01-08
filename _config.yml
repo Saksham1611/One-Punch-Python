@@ -39,14 +39,14 @@ baseurl: "/py-DS-Tips" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: https://twitter.com/Saksham__gupta
-    github: https://github.com/Saksham1611
+    twitter: Saksham__gupta
+    github: Saksham1611
 
 # Set this to true to get LaTeX math equation support
 use_math: 
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
-show_description: true
+show_description: True
 
 # Set this to true to display image previews on home page, if they exist
 show_image: false
