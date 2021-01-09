@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Let's Talk Python
-description: 
+description:
 github_username: Saksham1611
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "One-Punch-Python"
@@ -49,7 +49,7 @@ use_math:
 show_description: True
 
 # Set this to true to display image previews on home page, if they exist
-show_image: false
+show_image: true
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
 annotations: false
